@@ -1,0 +1,9 @@
+
+RETRIEVAL ORIENTED DEEP FEATURE LEARNING WITH COMPLEMENTARY SUPERVISION MINING
+
+ABSTRACT:
+
+In this system, we suggest incorporating the SIFT function in a learning-based paradigm into the CNN function with a Siamese framework. The learning goal comprises of two types of loss, 
+i.e. loss of resemblance and loss of loyalty. The first loss embeds the closest image-level neighbourhood structure with SIFT function in CNN feature learning, while the second loss imposes
+that the CNN feature with the updated CNN model maintains that fidelity from the initial CNN model designed exclusively for classification. The produced CNN function inherits the property of 
+the SIFT function after learning, which is well-oriented for retrieval of images.
